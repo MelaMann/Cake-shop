@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    background-color: pink;
+    padding: 2%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+    align-self: auto;
+    
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 0px;
+  }
+  body{
+    background-color: antiquewhite;
+  }
+  footer {
+    text-align: center;
+    padding: px;
+    background-color: DarkSalmon;
+    color: white;
+    margin-top: 500px;
+  }

@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/cake-with-present-balloons_23-2147666197.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:medium;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    }
+    h2{
+        font-size: 20px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        float: center;
+        t
+        
+    }
+
+    .button {
+        background-color: #4CAF50; /* Green */
+        
+    }
+   
+
